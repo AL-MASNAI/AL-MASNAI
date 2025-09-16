@@ -7,7 +7,7 @@
 
 ## 🔹 About Me
 
-I’m a strategic management and analytics professional currently retraining in software engineering through a Diploma in Data Analytics with AI at Code Institute (September–October 2025). With over 13 years of experience across global development, higher education, and non-profit sectors, I specialize in building reproducible systems, enabling cross-functional teams, and delivering data-informed transformation.
+I’m a strategic management and analytics professional currently retraining in software engineering through a Diploma in Data Analytics with AI at Code Institute (June –October 2025). With over 13 years of experience across global development, higher education, and non-profit sectors, I specialize in building reproducible systems, enabling cross-functional teams, and delivering data-informed transformation.
 
 My academic foundation includes an MBA from the University of Bath, an MSc in International Development from the University of Bristol, and a Diploma in Administration & Business Technology from the University of Plymouth. I also hold certifications from the Association of Proposal Management Professionals (APMP), the Chartered Institute of Personnel and Development (CIPD), and the Chartered Management Institute (CMI)—reflecting a multidisciplinary approach to leadership, proposal strategy, and people development.
 
