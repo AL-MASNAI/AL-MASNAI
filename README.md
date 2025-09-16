@@ -11,9 +11,6 @@ I’m a strategic management and analytics professional currently retraining in 
 
 My academic foundation includes an MBA from the University of Bath, an MSc in International Development from the University of Bristol, and a Diploma in Administration & Business Technology from the University of Plymouth. I also hold certifications from the Association of Proposal Management Professionals (APMP), the Chartered Institute of Personnel and Development (CIPD), and the Chartered Management Institute (CMI)—reflecting a multidisciplinary approach to leadership, proposal strategy, and people development.
 
-As part of my technical pivot, I’ve gained hands-on experience in Python programming, machine learning, exploratory data analysis (EDA), dashboarding with Power BI and Tableau, interactive visualisation using Streamlit, and ethical data practices. I’ve built and documented ETL (Extract, Transform, Load) pipelines to automate data ingestion and transformation, reinforcing my focus on reproducibility and scalable delivery. I’ve also led a team Hackathon as Scrum Master, contributed to open-source projects via GitHub, and designed onboarding-ready workflows for analytics teams.
-
-Whether leading strategic change or building scalable code, I bring curiosity, clarity, and a commitment to empowering others through thoughtful design and delivery. I’m especially motivated by mission-driven environments.
 
 ---
 
