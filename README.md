@@ -40,7 +40,7 @@ My academic foundation includes an MBA from the University of Bath, an MSc in In
 - 🌍 MSc International Development – University of Bristol  
 - 📘 Diploma in Data Analytics with AI – Code Institute *(in progress)*  
 - 🧾 Diploma in Administration & Business Technology – University of Plymouth  
-- 🏅 APMP, CIPD Level 3, CMI Level 5  
+- 🏅 APMP, CIPD Level 3, CMI Level 7  
 - 🏥 Humanitarian Training: Harvard Humanitarian Initiative, Johns Hopkins Bloomberg School of Public Health
 
 ---
