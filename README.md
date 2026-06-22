@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akram Al-Masnai
 
 **Strategic Management & Analytics | Data & Market Research | Technology | Transformation | Strategy | Innovation**  
-📍 Bristol, UK | 🌍 Global Experience | 🎓 MBA, MSc, DipAI (in progress)
+📍 Bristol, UK | 🌍 Global Experience | 🎓 MBA, MSc, DipAI
 
 ---
 
